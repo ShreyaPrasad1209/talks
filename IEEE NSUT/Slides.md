@@ -9,3 +9,19 @@
 - [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/)
 - [GirlScript Summer of Code](https://gssoc.girlscript.tech/)
 - [MLH Fellowship](https://fellowship.mlh.io/)
+
+### Hackathons
+
+-[Myntra Hackerramp](https://dare2compete.com/o/myntra-hackerramp-weforshe-myntra-151942#tab-infobox) - September
+-[Flipkart GRID](https://dare2compete.com/f/flipkart-grid-30-flipkart-12310) - June 
+-[JP Morgan Code for Good](https://careers.jpmorgan.com/US/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India): Feb-March
+-[American Express CodeStreet](https://codestreet-2020.hackerearth.com/) - August
+-[LinkedIn Wintathon](https://wintathon2020.splashthat.com/)
+
+
+### Scholarships
+
+-[Google Generation Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/)
+
+
+
