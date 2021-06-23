@@ -12,11 +12,11 @@
 
 ### Hackathons
 
--[Myntra Hackerramp](https://dare2compete.com/o/myntra-hackerramp-weforshe-myntra-151942#tab-infobox) - September
--[Flipkart GRID](https://dare2compete.com/f/flipkart-grid-30-flipkart-12310) - June 
--[JP Morgan Code for Good](https://careers.jpmorgan.com/US/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India): Feb-March
--[American Express CodeStreet](https://codestreet-2020.hackerearth.com/) - August
--[LinkedIn Wintathon](https://wintathon2020.splashthat.com/)
+- [Myntra Hackerramp](https://dare2compete.com/o/myntra-hackerramp-weforshe-myntra-151942#tab-infobox)
+- [Flipkart GRID](https://dare2compete.com/f/flipkart-grid-30-flipkart-12310)
+- [JP Morgan Code for Good](https://careers.jpmorgan.com/US/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India)
+- [American Express CodeStreet](https://codestreet-2020.hackerearth.com/)
+- [LinkedIn Wintathon](https://wintathon2020.splashthat.com/)
 
 
 ### Scholarships
