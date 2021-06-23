@@ -21,7 +21,7 @@
 
 ### Scholarships
 
--[Google Generation Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/)
+- [Google Generation Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/)
 
 
 
