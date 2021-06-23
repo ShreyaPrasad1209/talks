@@ -23,6 +23,9 @@
 ### Scholarships
 
 - [Google Generation Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/)
+- [Adobe Women in Tech](https://research.adobe.com/adobe-india-women-in-technology-scholarship/)
+- [Nutanix](https://www.nutanix.com/scholarships)
+
 
 
 
